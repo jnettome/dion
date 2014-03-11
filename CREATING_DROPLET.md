@@ -5,3 +5,4 @@
 3 - [lemp](https://www.digitalocean.com/community/articles/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-12-04)
 4 - [increasing post size](http://stackoverflow.com/questions/6135427/increasing-the-maximum-post-size)
 5 - [wordpress install](https://www.digitalocean.com/community/articles/how-to-install-wordpress-with-nginx-on-ubuntu-12-04)
+6 - [git deploy hook](http://culttt.com/2013/04/08/how-to-deploy-wordpress-themes-with-git/)
